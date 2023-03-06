@@ -1,7 +1,7 @@
 baseURL = 'https://qirivaal.github.io/PersonalBlog/'
 languageCode = 'en-us'
 title = "Qirivaal's Blog"
-theme = 'paper'
+theme = 'Paper'
 
 [params]
  # color style
