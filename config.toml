@@ -1,4 +1,12 @@
 baseURL = 'https://qirivaal.github.io/PersonalBlog/'
 languageCode = 'en-us'
 title = "Qirivaal's Blog"
-theme = 'Paper'
+theme = 'paper'
+
+[params]
+ # color style
+  color = 'linen'                           # linen, wheat, gray, light
+
+  # header social icons
+  twitter = 'qirivaal'               # twitter.com/YOUR_TWITTER_ID
+  github = 'Qirivaal'                 # github.com/YOUR_GITHUB_ID
