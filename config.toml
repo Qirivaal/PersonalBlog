@@ -1,4 +1,4 @@
 baseURL = 'https://qirivaal.github.io/PersonalBlog/'
 languageCode = 'en-us'
-title = 'My Blog'
+title = "Qirivaal's Blog"
 theme = 'Paper'
